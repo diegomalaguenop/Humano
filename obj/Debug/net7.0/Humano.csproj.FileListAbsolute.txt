@@ -1,0 +1,14 @@
+C:\Aplicaciones\Coding dojo\Clases\C#\Humano\bin\Debug\net7.0\Humano.exe
+C:\Aplicaciones\Coding dojo\Clases\C#\Humano\bin\Debug\net7.0\Humano.deps.json
+C:\Aplicaciones\Coding dojo\Clases\C#\Humano\bin\Debug\net7.0\Humano.runtimeconfig.json
+C:\Aplicaciones\Coding dojo\Clases\C#\Humano\bin\Debug\net7.0\Humano.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\Humano\bin\Debug\net7.0\Humano.pdb
+C:\Aplicaciones\Coding dojo\Clases\C#\Humano\obj\Debug\net7.0\Humano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aplicaciones\Coding dojo\Clases\C#\Humano\obj\Debug\net7.0\Humano.AssemblyInfoInputs.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\Humano\obj\Debug\net7.0\Humano.AssemblyInfo.cs
+C:\Aplicaciones\Coding dojo\Clases\C#\Humano\obj\Debug\net7.0\Humano.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\Humano\obj\Debug\net7.0\Humano.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\Humano\obj\Debug\net7.0\refint\Humano.dll
+C:\Aplicaciones\Coding dojo\Clases\C#\Humano\obj\Debug\net7.0\Humano.pdb
+C:\Aplicaciones\Coding dojo\Clases\C#\Humano\obj\Debug\net7.0\Humano.genruntimeconfig.cache
+C:\Aplicaciones\Coding dojo\Clases\C#\Humano\obj\Debug\net7.0\ref\Humano.dll
